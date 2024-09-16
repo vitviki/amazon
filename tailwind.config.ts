@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        amazon_yellow: "rgb(243,168,71)",
       },
     },
   },

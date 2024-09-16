@@ -15,9 +15,6 @@ module.exports = {
         secondary: "#232f3e",
         amazon_yellow: "rgb(243,168,71)",
       },
-      fontFamily: {
-        montserrat: ["var(--font-montserrat)"],
-      },
     },
   },
   plugins: [],
