@@ -67,10 +67,10 @@ const NavbarCategoriesBar = () => {
                     <Link href="/">TV & Appliances</Link>
                   </li>
                   <li>
-                    <Link href="/">Men's Fashion</Link>
+                    <Link href="/">Men&apos;s Fashion</Link>
                   </li>
                   <li>
-                    <Link href="/">Women's Fashion</Link>
+                    <Link href="/">Women&apos;s Fashion</Link>
                   </li>
                   <li>
                     <Link href="/">Sports & Fitness</Link>
