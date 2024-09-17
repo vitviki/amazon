@@ -3,6 +3,7 @@ import Link from "next/link";
 import Searchbar from "./Searchbar";
 import NavbarIcons from "./NavbarIcons";
 import NavbarCategoriesBar from "./NavbarCategories";
+import Sidebar from "./Sidebar";
 
 const Navbar = () => {
   return (
@@ -42,6 +43,9 @@ const Navbar = () => {
       <div className="h-[30%] w-full hidden lg:flex bg-secondary">
         <NavbarCategoriesBar />
       </div>
+
+      {/* Sidebar */}
+      <Sidebar />
     </nav>
   );
 };
